@@ -10,7 +10,7 @@ export default App;
 function App() {
   return (
     <div className="App">
-       <div class ="container">
+       <div className ="container">
      <Sidebar/>
       <Review/>
       <AvgRating/>
